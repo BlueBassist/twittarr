@@ -1,0 +1,8 @@
+local:    
+    log_file:   '/path/to/your/log_dir'
+    pid_file:   '/path/to/your/pid'
+    working_dir:    'path/to/your/twittarr/app'
+production:
+    log_file:   '/path/to/your/log_dir'
+    pid_file:   '/path/to/your/pid'
+    working_dir:    'path/to/your/twittarr/app'

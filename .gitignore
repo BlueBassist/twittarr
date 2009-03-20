@@ -1,1 +1,3 @@
-config/*
+config/games.yml
+config/server.yml
+config/twittarr.yml

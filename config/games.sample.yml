@@ -1,0 +1,3 @@
+HighLo: # Name the yml config section after the game module
+    info:   "A simple High/low hot/cold game" # This is what will be sent if a user DMs with 'gamename help'
+    example:    "dm #{Twittarr.twitname} HighLo ##. Starts a new game, and makes your first guess."# This is what will be sent if a user DMs with 'gamename example'

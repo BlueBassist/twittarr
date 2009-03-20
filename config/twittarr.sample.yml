@@ -1,0 +1,3 @@
+test:
+    login:  Twitter username for twitter4r auth
+    password:   Twitter password for twitter4r auth
