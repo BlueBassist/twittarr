@@ -1,0 +1,4 @@
+Twittarr is a general purpose info/game bot for use on twitter.
+Gems used: 
+daemon-spawn http://github.com/alexvollmer/daemon-spawn
+twitter4r http://github.com/twitter4r/twitter4r-core
